@@ -163,7 +163,7 @@ venv\Scripts\activate      # (Windows)
 pip install -r requirements.txt
 ```
 
-##👉 Run the backend (example with FastAPI or orchestrator script):
+## 👉 Run the backend (example with FastAPI or orchestrator script):
 
 
 
@@ -189,7 +189,7 @@ npm run dev
 
 
 
-##🚀 Usage
+## 🚀 Usage
 
 Ouvrir le frontend (http://localhost:5173).
 
@@ -219,7 +219,7 @@ Un premier message de contact généré par l’IA.
 
 
 
-##📊 Example Workflow
+## 📊 Example Workflow
 
 Input :
 
@@ -269,7 +269,7 @@ Other : Puppeteer / Playwright (scraping), LangChain agents
 
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Les contributions sont les bienvenues 🎉
 
