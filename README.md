@@ -120,11 +120,7 @@ Date2Deal/
 
 
 
-yaml
 
-Copier
-
-Modifier
 
 
 
@@ -165,38 +161,35 @@ venv\Scripts\activate      # (Windows)
 
 
 pip install -r requirements.txt
+```
 
-👉 Run the backend (example with FastAPI or orchestrator script):
+##👉 Run the backend (example with FastAPI or orchestrator script):
 
 
 
-bash
-
-Copier
-
-Modifier
+```bash
 
 uvicorn orchestrator-all:app --reload --port 8000
+```
 
 3️⃣ Frontend setup (React + TS)
 
-bash
+```bash
 
-Copier
 
-Modifier
 
 cd front
 
 npm install
 
 npm run dev
+```
 
-👉 App will be available at: http://localhost:5173
+##👉 App will be available at: http://localhost:5173
 
 
 
-🚀 Usage
+##🚀 Usage
 
 Ouvrir le frontend (http://localhost:5173).
 
@@ -226,7 +219,7 @@ Un premier message de contact généré par l’IA.
 
 
 
-📊 Example Workflow
+##📊 Example Workflow
 
 Input :
 
@@ -258,7 +251,7 @@ Message de contact personnalisé généré automatiquement.
 
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Backend : Python, FastAPI, Scrapy, Requests, BeautifulSoup, OpenAI/Gemini APIs
 
@@ -276,7 +269,7 @@ Other : Puppeteer / Playwright (scraping), LangChain agents
 
 
 
-🤝 Contributing
+##🤝 Contributing
 
 Les contributions sont les bienvenues 🎉
 
@@ -302,6 +295,6 @@ Crée une Pull Request
 
 
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
