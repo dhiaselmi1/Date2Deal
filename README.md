@@ -248,7 +248,7 @@ Output :
 
 
 
-##🛠️ Tech Stack
+##  🛠️ Tech Stack
 
  -  Backend : Python, FastAPI, Scrapy, Requests, BeautifulSoup, OpenAI/Gemini APIs
 
@@ -292,6 +292,6 @@ Les contributions sont les bienvenues 🎉
 
 
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
