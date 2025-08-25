@@ -191,15 +191,15 @@ npm run dev
 
 ## 🚀 Usage
 
-Ouvrir le frontend (http://localhost:5173).
+1.Ouvrir le frontend (http://localhost:5173).
 
 
 
-Entrer le nom et la localisation d’une entreprise.
+2.Entrer le nom et la localisation d’une entreprise.
 
 
 
-Le backend collecte et analyse les données.
+3.Le backend collecte et analyse les données.
 
 
 
@@ -207,15 +207,15 @@ L’application affiche :
 
 
 
-L’organigramme des décideurs.
+ - L’organigramme des décideurs.
 
 
 
-Un rapport exécutif détaillé.
+ - Un rapport exécutif détaillé.
 
 
 
-Un premier message de contact généré par l’IA.
+ - Un premier message de contact généré par l’IA.
 
 
 
