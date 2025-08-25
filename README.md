@@ -223,49 +223,46 @@ L’application affiche :
 
 Input :
 
+```bash
 
-
-yaml
-
-Copier
-
-Modifier
 
 Entreprise : Talan Tunisie
 
 Localisation : Tunis, Tunisie
 
+```
+
 Output :
 
 
 
-Organigramme : CEO, CTO, Head of HR, etc.
+ -  Organigramme : CEO, CTO, Head of HR, etc.
 
 
 
-Rapport détaillé pour chaque dirigeant.
+ -  Rapport détaillé pour chaque dirigeant.
 
 
 
-Message de contact personnalisé généré automatiquement.
+ -  Message de contact personnalisé généré automatiquement.
 
 
 
 ##🛠️ Tech Stack
 
-Backend : Python, FastAPI, Scrapy, Requests, BeautifulSoup, OpenAI/Gemini APIs
+ -  Backend : Python, FastAPI, Scrapy, Requests, BeautifulSoup, OpenAI/Gemini APIs
 
 
 
-Frontend : React, TypeScript, TailwindCSS, Shadcn/UI
+ -  Frontend : React, TypeScript, TailwindCSS, Shadcn/UI
 
 
 
-Database (optionnel) : PostgreSQL / SQLite
+ -  Database (optionnel) : PostgreSQL / SQLite
 
 
 
-Other : Puppeteer / Playwright (scraping), LangChain agents
+ -  Other : Puppeteer / Playwright (scraping), LangChain agents
 
 
 
@@ -275,23 +272,23 @@ Les contributions sont les bienvenues 🎉
 
 
 
-Fork le repo
+1. Fork le repo
 
 
 
-Crée une branche : git checkout -b feature/ma-fonctionnalite
+1. Crée une branche : git checkout -b feature/ma-fonctionnalite
 
 
 
-Commit : git commit -m "Ajout de ma fonctionnalité"
+2. Commit : git commit -m "Ajout de ma fonctionnalité"
 
 
 
-Push : git push origin feature/ma-fonctionnalite
+3. Push : git push origin feature/ma-fonctionnalite
 
 
 
-Crée une Pull Request
+4. Crée une Pull Request
 
 
 
